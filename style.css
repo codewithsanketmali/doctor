@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#hero{
+    background-image: url('./woman-gd12bc9bc9_640.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+}
+nav{
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    right: 0;
+    left: 0;
+    padding: 2rem;
+}
+.card1{
+    background-color: #9eeaf9;
+    padding: 2rem;
+}
+.card2{
+    background-color: aqua;
+    padding: 2rem;
+}
+.btn{
+    background-color: rgb(24, 188, 133);
+}
+span{
+    color: rgb(16, 130, 237);
+}
+
+#about{
+    background-image: url('./pexels-nataliya-vaitkevich-6940859.jpg');
+    background-size: cover;
+    height: 100vh;
+    
+}
+.c{
+    background-color: aqua;
+}
+.b{
+    background: linear-gradient(rgb(46, 232, 154),rgb(89, 177, 182));
+    height: 20vh;
+}
+#department{
+    background-image: url('./hospice-g677122f27_1280.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    
+}
+.d-height{
+    height: 100vh;
+}
+.img-contact{
+    background-image: url('./pexels-thirdman-5862312.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 65vh;
+}
+.r{
+    background-color: rgb(90, 87, 87);
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    
+}
